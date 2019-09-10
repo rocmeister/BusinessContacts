@@ -1,0 +1,16 @@
+C:\2019\C#\SQL\Lesson 49\BusinessContacts\BusinessContacts\bin\Debug\BusinessContacts.exe.config
+C:\2019\C#\SQL\Lesson 49\BusinessContacts\BusinessContacts\bin\Debug\BusinessContacts.exe
+C:\2019\C#\SQL\Lesson 49\BusinessContacts\BusinessContacts\bin\Debug\BusinessContacts.pdb
+C:\2019\C#\SQL\Lesson 49\BusinessContacts\BusinessContacts\obj\Debug\BusinessContacts.csprojAssemblyReference.cache
+C:\2019\C#\SQL\Lesson 49\BusinessContacts\BusinessContacts\obj\Debug\BusinessContacts.Properties.Resources.resources
+C:\2019\C#\SQL\Lesson 49\BusinessContacts\BusinessContacts\obj\Debug\BusinessContacts.csproj.GenerateResource.cache
+C:\2019\C#\SQL\Lesson 49\BusinessContacts\BusinessContacts\obj\Debug\BusinessContacts.csproj.CoreCompileInputs.cache
+C:\2019\C#\SQL\Lesson 49\BusinessContacts\BusinessContacts\obj\Debug\BusinessContacts.exe
+C:\2019\C#\SQL\Lesson 49\BusinessContacts\BusinessContacts\obj\Debug\BusinessContacts.pdb
+C:\2019\C#\SQL\Lesson 49\BusinessContacts\BusinessContacts\obj\Debug\BusinessContacts.Main.resources
+C:\2019\C#\SQL\Lesson 49\BusinessContacts\BusinessContacts\obj\Debug\BusinessContacts.BizContacts.resources
+C:\2019\C#\SQL\Lesson 49\BusinessContacts\BusinessContacts\bin\Debug\BusinessContacts.exe.manifest
+C:\2019\C#\SQL\Lesson 49\BusinessContacts\BusinessContacts\bin\Debug\BusinessContacts.application
+C:\2019\C#\SQL\Lesson 49\BusinessContacts\BusinessContacts\obj\Debug\BusinessContacts.exe.manifest
+C:\2019\C#\SQL\Lesson 49\BusinessContacts\BusinessContacts\obj\Debug\BusinessContacts.application
+C:\2019\C#\SQL\Lesson 49\BusinessContacts\BusinessContacts\obj\Debug\BusinessContacts.csproj.ResolveComReference.cache
